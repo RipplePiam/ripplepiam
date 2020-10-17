@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm ChenNan</h1>
-<h3 align="center">A passionate developer from China</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripplepiam" alt="ripplepiam" /> </p>
 
