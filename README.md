@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on [https://blog.csdn.net/qq_27677599](https://blog.csdn.net/qq_27677599)
 
-<!-- - 📫 How to reach me **elitebooks@qq.com** -->
+<!-- - 📫 How to reach me **@qq.com** -->
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/>
@@ -42,6 +42,9 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ripplepiam&show_icons=true" alt="ripplepiam" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ripplepiam&show_icons=true&include_all_commits=true&count_private=true" alt="ripplepiam" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripplepiam&layout=compact&langs_count=10" alt="ripplepiam" />
 </p>
