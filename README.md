@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ripplepiam&show_icons=true&include_all_commits=true&count_private=true" alt="ripplepiam" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripplepiam&layout=compact&langs_count=10" alt="ripplepiam" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripplepiam&layout=compact&langs_count=8" alt="ripplepiam" />
 </p>
