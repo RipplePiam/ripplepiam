@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <p align="center">
   &nbsp;<img src="./icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   &nbsp;<img src="./icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  &nbsp;<img src="./icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  &nbsp;<img src="./icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
   &nbsp;<img src="./icons/c/c-original.svg" alt="c" width="40" height="40"/>
   &nbsp;<img src="./icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   &nbsp;<img src="./icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   &nbsp;<img src="./icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   &nbsp;<img src="./icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
 </p>
+
 <br/>
 <p align="center">
   &nbsp;<img src="./icons/git/git-original.svg" alt="git" width="40" height="40"/>
