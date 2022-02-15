@@ -55,12 +55,13 @@ Here are some ideas to get you started:
   &nbsp;<img src="./icons/putty/putty-plain.svg" alt="putty" width="40" height="40"/>
   &nbsp;<img src="./icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
   &nbsp;<img src="./icons/vim/vim-plain.svg" alt="vim" width="40" height="40"/>
-  &nbsp;<img src="./icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  &nbsp;<img src="./icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
   &nbsp;<img src="./icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
   &nbsp;<img src="./icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
   &nbsp;<img src="./icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
   &nbsp;<img src="./icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
 </p>
+
 <br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ripplepiam&show_icons=true&include_all_commits=true&count_private=true&line_height=30" alt="ripplepiam" width="420" height="200"/>
