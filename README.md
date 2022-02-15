@@ -44,6 +44,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ripplepiam&show_icons=true&include_all_commits=true&count_private=true" alt="ripplepiam" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripplepiam&layout=compact&langs_count=8" alt="ripplepiam" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ripplepiam&show_icons=true&include_all_commits=true&count_private=true" alt="ripplepiam" width="420" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripplepiam&layout=compact&langs_count=8" alt="ripplepiam" width="420"/>
 </p>
