@@ -65,6 +65,6 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ripplepiam&show_icons=true&include_all_commits=true&count_private=true&line_height=30" alt="ripplepiam" width="420" height="200"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ripplepiam&layout=compact&langs_count=10&hide=Makefile,NSIS,Assembly&card_width=420" alt="ripplepiam" width="420" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ripplepiam&show_icons=true&include_all_commits=true&line_height=30" alt="ripplepiam stats" width="420" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripplepiam&layout=compact&langs_count=10&hide=Makefile,NSIS,Assembly&card_width=420" alt="ripplepiam top langs" width="420" height="200"/>
 </p>
